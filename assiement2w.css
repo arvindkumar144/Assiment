@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/atri@0.4.2/dist/atri.min.css">
+  </head>
+  <body>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6">
+          <h1 class="text-center">Left Column</h1>
+          <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam auctor, ipsum eu egestas commodo, libero odio facilisis tellus, sit amet iaculis risus sapien non justo. Maecenas at tempor nulla, vel mollis diam. Integer congue velit a arcu convallis, in tempor est egestas. In quis dolor id libero viverra placerat a vitae dui. Maecenas non ipsum commodo, volutpat lorem id, vestibulum justo. Sed et dapibus metus. </p>
+        </div>
+        <div class="col-md-6">
+          <h1 class="text-center">Right Column</h1>
+          <p class="text-justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam auctor, ipsum eu egestas commodo, libero odio facilisis tellus, sit amet iaculis risus sapien non justo. Maecenas at tempor nulla, vel mollis diam. Integer congue velit a arcu convallis, in tempor est egestas. In quis dolor id libero viverra placerat a vitae dui. Maecenas non ipsum commodo, volutpat lorem id, vestibulum justo. Sed et dapibus metus. </p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
